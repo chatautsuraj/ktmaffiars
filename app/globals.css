@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 32% 97%;
+    --foreground: 220 55% 14%;
+
+    --card: 40 32% 97%;
+    --card-foreground: 220 55% 14%;
+
+    --primary: 220 71% 14%;
+    --primary-foreground: 40 32% 97%;
+
+    --secondary: 40 20% 92%;
+    --secondary-foreground: 220 55% 14%;
+
+    --muted: 42 22% 90%;
+    --muted-foreground: 220 15% 38%;
+
+    --accent: 41 58% 46%;
+    --accent-foreground: 220 55% 14%;
+
+    --border: 42 24% 82%;
+    --input: 42 24% 82%;
+    --ring: 41 58% 46%;
+
+    --radius: 0.25rem;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-paper text-ink font-body antialiased;
+    font-feature-settings: "kern", "liga", "calt";
+  }
+  h1, h2, h3, h4 {
+    @apply font-display text-ink;
+  }
+  ::selection {
+    @apply bg-gold/25 text-ink;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply font-mono text-[0.7rem] uppercase tracking-widest2 text-gold;
+  }
+  .hairline-rule {
+    @apply border-t border-hairline;
+  }
+  .container-editorial {
+    @apply mx-auto w-full max-w-[1400px] px-5 sm:px-8 lg:px-12;
+  }
+  .link-underline {
+    @apply relative after:absolute after:left-0 after:-bottom-0.5 after:h-px after:w-0 after:bg-gold after:transition-[width] after:duration-300 hover:after:w-full;
+  }
+  .focus-ring {
+    @apply outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-paper;
+  }
+}
