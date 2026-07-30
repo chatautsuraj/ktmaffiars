@@ -1,0 +1,19 @@
+services:
+  web:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: production
+      # Required in production (auth fails closed without them):
+      ADMIN_EMAIL: ${ADMIN_EMAIL}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD}
+      AUTH_SECRET: ${AUTH_SECRET}
+      # Optional:
+      CRON_SECRET: ${CRON_SECRET:-}
+      AUTOPILOT_HALTED: ${AUTOPILOT_HALTED:-true}
+    volumes:
+      # Persist CMS content and uploads across container rebuilds
+      - ./content:/app/content
+      - ./public/uploads:/app/public/uploads
+    restart: unless-stopped

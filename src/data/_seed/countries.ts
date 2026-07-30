@@ -1,0 +1,218 @@
+import type { Country } from "@/types";
+
+export const countries: Country[] = [
+  {
+    id: "1",
+    slug: "india",
+    name: "India",
+    officialName: "Republic of India",
+    flag: "🇮🇳",
+    capital: "New Delhi",
+    region: "South Asia",
+    population: 1428000000,
+    gdp: 3730000,
+    heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1600&h=900&fit=crop",
+    overview: "India is the world's most populous democracy and a rising global power. As Nepal's largest trading partner and closest neighbor, India plays a pivotal role in Nepali foreign policy, economic development, and cultural exchange.",
+    nepalRelations: "Nepal and India share an open border, deep cultural ties, and complex diplomatic history spanning centuries. The 1950 Treaty of Peace and Friendship remains the foundational document, though both nations have sought to modernize the relationship through updated trade and transit agreements.",
+    coordinates: { lat: 28.6139, lng: 77.209 },
+    tradeData: {
+      exports: 9800000000,
+      imports: 1200000000,
+      balance: -8600000000,
+      topExports: ["Petroleum products", "Vehicles", "Machinery"],
+      topImports: ["Hydropower", "Agricultural products", "Textiles"],
+      yearOverYear: 8.2,
+    },
+    timeline: [
+      { year: 1950, title: "Treaty of Peace and Friendship", description: "Foundational bilateral treaty establishing open borders and reciprocal rights." },
+      { year: 2015, title: "Constitution Crisis", description: "India expressed concerns over Nepal's new constitution, leading to diplomatic tensions." },
+      { year: 2026, title: "Border Commission Established", description: "Permanent joint border commission created to resolve territorial disputes." },
+    ],
+    agreements: [
+      { title: "Treaty of Peace and Friendship", date: "1950-07-31", type: "Bilateral Treaty", description: "Foundational agreement on trade, transit, and citizenship." },
+      { title: "Power Trade Agreement", date: "2014-10-21", type: "Energy", description: "Framework for cross-border electricity trade." },
+      { title: "Railway Link Agreement", date: "2024-06-15", type: "Infrastructure", description: "Cross-border railway connectivity projects." },
+    ],
+    investment: {
+      totalFDI: 520000000,
+      projects: 34,
+      sectors: [
+        { name: "Hydropower", value: 45 },
+        { name: "Manufacturing", value: 25 },
+        { name: "Services", value: 20 },
+        { name: "Agriculture", value: 10 },
+      ],
+    },
+    gallery: [
+      "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&h=600&fit=crop",
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+    ],
+    embassySlug: "indian-embassy-kathmandu",
+    stats: [
+      { label: "Trade Volume", value: "$9.8B", change: 8.2 },
+      { label: "Nepali Workers", value: "800K+", change: 3.1 },
+      { label: "Development Aid", value: "$1.2B", change: 12.5 },
+      { label: "Border Length", value: "1,751 km" },
+    ],
+  },
+  {
+    id: "2",
+    slug: "china",
+    name: "China",
+    officialName: "People's Republic of China",
+    flag: "🇨🇳",
+    capital: "Beijing",
+    region: "East Asia",
+    population: 1410000000,
+    gdp: 17700000,
+    heroImage: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop",
+    overview: "China is the world's second-largest economy and Nepal's northern neighbor. The relationship has deepened significantly through Belt and Road Initiative investments and growing trade ties.",
+    nepalRelations: "Nepal and China established diplomatic relations in 1955. The relationship has expanded dramatically since 2015, with China becoming a major investor in Nepali infrastructure and a key development partner.",
+    coordinates: { lat: 39.9042, lng: 116.4074 },
+    tradeData: {
+      exports: 2100000000,
+      imports: 180000000,
+      balance: -1920000000,
+      topExports: ["Electronics", "Machinery", "Textiles"],
+      topImports: ["Herbs", "Handicrafts", "Metal products"],
+      yearOverYear: 15.4,
+    },
+    timeline: [
+      { year: 1955, title: "Diplomatic Relations Established", description: "Nepal and China formalize bilateral relations." },
+      { year: 2017, title: "BRI MoU Signed", description: "Nepal joins China's Belt and Road Initiative." },
+      { year: 2019, title: "Trans-Himalayan Railway Agreement", description: "Feasibility study for Kathmandu-Lhasa railway." },
+    ],
+    agreements: [
+      { title: "Belt and Road Initiative MoU", date: "2017-05-12", type: "Infrastructure", description: "Framework for BRI project cooperation." },
+      { title: "Transit Transport Agreement", date: "2016-03-21", type: "Trade", description: "Access to Chinese ports for Nepali trade." },
+    ],
+    investment: {
+      totalFDI: 3200000000,
+      projects: 28,
+      sectors: [
+        { name: "Infrastructure", value: 55 },
+        { name: "Energy", value: 25 },
+        { name: "Tourism", value: 12 },
+        { name: "Technology", value: 8 },
+      ],
+    },
+    gallery: [
+      "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&h=600&fit=crop",
+    ],
+    embassySlug: "chinese-embassy-kathmandu",
+    stats: [
+      { label: "Trade Volume", value: "$2.1B", change: 15.4 },
+      { label: "BRI Investment", value: "$3.2B", change: 22.0 },
+      { label: "Tourist Arrivals", value: "180K", change: -5.2 },
+      { label: "Border Length", value: "1,414 km" },
+    ],
+  },
+  {
+    id: "3",
+    slug: "united-states",
+    name: "United States",
+    officialName: "United States of America",
+    flag: "🇺🇸",
+    capital: "Washington, D.C.",
+    region: "North America",
+    population: 335000000,
+    gdp: 25400000,
+    heroImage: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1600&h=900&fit=crop",
+    overview: "The United States is the world's largest economy and a key development partner for Nepal, with significant investments in democracy, education, and infrastructure through MCC and USAID programs.",
+    nepalRelations: "U.S.-Nepal relations date to 1947. The relationship encompasses development assistance, security cooperation, educational exchange, and growing trade ties.",
+    coordinates: { lat: 38.9072, lng: -77.0369 },
+    tradeData: {
+      exports: 180000000,
+      imports: 95000000,
+      balance: -85000000,
+      topExports: ["Aircraft parts", "Medical equipment", "Soybeans"],
+      topImports: ["Carpets", "Textiles", "Coffee"],
+      yearOverYear: 6.8,
+    },
+    timeline: [
+      { year: 1947, title: "Diplomatic Relations", description: "Nepal and the U.S. establish formal diplomatic ties." },
+      { year: 2017, title: "MCC Compact Signed", description: "$500M infrastructure investment agreement." },
+      { year: 2026, title: "Strategic Partnership Framework", description: "Comprehensive bilateral cooperation framework." },
+    ],
+    agreements: [
+      { title: "MCC Compact", date: "2017-09-14", type: "Development", description: "$500M electricity transmission and road project." },
+      { title: "Strategic Partnership Framework", date: "2026-01-15", type: "Comprehensive", description: "Expanded cooperation across multiple sectors." },
+    ],
+    investment: {
+      totalFDI: 89000000,
+      projects: 12,
+      sectors: [
+        { name: "Development", value: 60 },
+        { name: "Technology", value: 20 },
+        { name: "Tourism", value: 12 },
+        { name: "Manufacturing", value: 8 },
+      ],
+    },
+    gallery: [
+      "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800&h=600&fit=crop",
+    ],
+    embassySlug: "us-embassy-kathmandu",
+    stats: [
+      { label: "Trade Volume", value: "$275M", change: 6.8 },
+      { label: "MCC Investment", value: "$500M" },
+      { label: "USAID Annual", value: "$130M" },
+      { label: "Nepali Students", value: "12K+" },
+    ],
+  },
+  {
+    id: "4",
+    slug: "japan",
+    name: "Japan",
+    officialName: "Japan",
+    flag: "🇯🇵",
+    capital: "Tokyo",
+    region: "East Asia",
+    population: 125000000,
+    gdp: 4230000,
+    heroImage: "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop",
+    overview: "Japan is one of Nepal's oldest and most consistent development partners, with decades of investment in infrastructure, education, and disaster resilience.",
+    nepalRelations: "Japan has provided over $5 billion in development assistance to Nepal since 1956, making it one of the largest bilateral donors.",
+    coordinates: { lat: 35.6762, lng: 139.6503 },
+    tradeData: {
+      exports: 45000000,
+      imports: 32000000,
+      balance: -13000000,
+      topExports: ["Vehicles", "Electronics", "Machinery"],
+      topImports: ["Carpets", "Garments", "Coffee"],
+      yearOverYear: 4.2,
+    },
+    timeline: [
+      { year: 1956, title: "Diplomatic Relations", description: "Nepal and Japan establish formal ties." },
+      { year: 2015, title: "Earthquake Recovery", description: "Major Japanese aid following Gorkha earthquake." },
+    ],
+    agreements: [
+      { title: "Technical Cooperation Agreement", date: "1969-05-01", type: "Development", description: "JICA technical assistance framework." },
+    ],
+    investment: {
+      totalFDI: 45000000,
+      projects: 8,
+      sectors: [
+        { name: "Infrastructure", value: 40 },
+        { name: "Education", value: 30 },
+        { name: "Tourism", value: 20 },
+        { name: "Technology", value: 10 },
+      ],
+    },
+    gallery: [],
+    embassySlug: "japanese-embassy-kathmandu",
+    stats: [
+      { label: "Total ODA", value: "$5B+", change: 2.1 },
+      { label: "Trade Volume", value: "$77M", change: 4.2 },
+      { label: "JICA Projects", value: "45+" },
+      { label: "Nepali Students", value: "3.2K" },
+    ],
+  },
+];
+
+export function getCountryBySlug(slug: string) {
+  return countries.find((c) => c.slug === slug);
+}
+
+export function getCountriesByRegion(region: string) {
+  return countries.filter((c) => c.region === region);
+}

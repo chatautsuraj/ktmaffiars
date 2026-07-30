@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1",
+    "slug": "nepal-un-address-2026",
+    "title": "Nepal's Address to the UN General Assembly",
+    "description": "Full coverage of Nepal's address at the 81st UN General Assembly session.",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+    "duration": "28:45",
+    "publishedAt": "2026-06-20T14:00:00Z",
+    "category": "Diplomacy"
+  },
+  {
+    "id": "2",
+    "slug": "himalayan-geopolitics-explained",
+    "title": "Himalayan Geopolitics Explained",
+    "description": "A visual explainer on the strategic significance of the Himalayan region.",
+    "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=450&fit=crop",
+    "duration": "12:30",
+    "publishedAt": "2026-06-15T10:00:00Z",
+    "category": "Explainers"
+  }
+]

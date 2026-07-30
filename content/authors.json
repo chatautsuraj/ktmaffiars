@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "slug": "anisha-sharma",
+    "name": "Dr. Anisha Sharma",
+    "title": "Senior Diplomatic Correspondent",
+    "bio": "Dr. Sharma covers South Asian diplomacy and multilateral institutions. Former Fulbright scholar at Georgetown University's School of Foreign Service.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+    "twitter": "@anishasharma",
+    "expertise": [
+      "Diplomacy",
+      "SAARC",
+      "Multilateralism"
+    ],
+    "articleCount": 142
+  },
+  {
+    "id": "2",
+    "slug": "rajesh-thapa",
+    "name": "Rajesh Thapa",
+    "title": "Geopolitics Editor",
+    "bio": "Rajesh Thapa is KTM Affairs' Geopolitics Editor, specializing in Himalayan geopolitics, China-India dynamics, and Nepal's strategic positioning.",
+    "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
+    "twitter": "@rajeshthapa",
+    "expertise": [
+      "Geopolitics",
+      "China",
+      "India"
+    ],
+    "articleCount": 98
+  },
+  {
+    "id": "3",
+    "slug": "elena-voss",
+    "name": "Elena Voss",
+    "title": "International Economics Correspondent",
+    "bio": "Elena Voss reports on global trade, development finance, and economic diplomacy from Kathmandu and Geneva.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+    "linkedin": "elena-voss",
+    "expertise": [
+      "Trade",
+      "Development",
+      "IMF"
+    ],
+    "articleCount": 76
+  },
+  {
+    "id": "4",
+    "slug": "michael-chen",
+    "name": "Michael Chen",
+    "title": "Security & Intelligence Analyst",
+    "bio": "Michael Chen is a former intelligence analyst covering defense policy, cyber security, and regional security architectures.",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    "expertise": [
+      "Security",
+      "Intelligence",
+      "Cyber"
+    ],
+    "articleCount": 54
+  }
+]

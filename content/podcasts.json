@@ -1,0 +1,31 @@
+[
+  {
+    "id": "1",
+    "slug": "diplomatic-circuit-ep42",
+    "title": "The Diplomatic Circuit: Nepal's Balancing Act",
+    "description": "How Nepal navigates relations between India, China, and the United States in an era of great power competition.",
+    "duration": "45:32",
+    "publishedAt": "2026-07-01T10:00:00Z",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=800&h=800&fit=crop",
+    "episode": 42,
+    "season": 3,
+    "guests": [
+      "Dr. Anisha Sharma",
+      "Prof. S.D. Muni"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "global-brief-ep18",
+    "title": "Global Brief: SAARC at a Crossroads",
+    "description": "Can South Asian regional cooperation be revived? Experts weigh in on prospects and pathways.",
+    "duration": "38:15",
+    "publishedAt": "2026-06-25T10:00:00Z",
+    "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=800&h=800&fit=crop",
+    "episode": 18,
+    "season": 2,
+    "guests": [
+      "Rajesh Thapa"
+    ]
+  }
+]

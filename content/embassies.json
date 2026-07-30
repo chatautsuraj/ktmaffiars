@@ -1,0 +1,118 @@
+[
+  {
+    "id": "1",
+    "slug": "indian-embassy-kathmandu",
+    "name": "Embassy of India",
+    "country": "India",
+    "countrySlug": "india",
+    "type": "embassy",
+    "address": "Kapurdhara Marg, Lainchaur",
+    "city": "Kathmandu",
+    "phone": "+977-1-4410900",
+    "email": "eoiktm@mea.gov.in",
+    "website": "https://www.eoikathmandu.gov.in",
+    "heroImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1600&h=900&fit=crop",
+    "coordinates": {
+      "lat": 27.7231,
+      "lng": 85.324
+    },
+    "ambassadorSlug": "naveen-srivastava",
+    "established": "1947",
+    "visaInfo": "Indian nationals do not require visas. Nepali nationals may enter India with valid identification. Third-country nationals should apply through the VFS Global visa center.",
+    "cooperationProjects": [
+      {
+        "title": "Pancheshwar Multipurpose Project",
+        "description": "Joint hydropower and irrigation project on Mahakali River.",
+        "status": "active",
+        "year": 2024
+      },
+      {
+        "title": "Cross-Border Railway",
+        "description": "Railway connectivity between Jaynagar and Bardibas.",
+        "status": "active",
+        "year": 2023
+      },
+      {
+        "title": "Digital Connectivity",
+        "description": "Fiber optic link between India and Nepal.",
+        "status": "completed",
+        "year": 2022
+      }
+    ],
+    "gallery": [
+      "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop"
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "chinese-embassy-kathmandu",
+    "name": "Embassy of the People's Republic of China",
+    "country": "China",
+    "countrySlug": "china",
+    "type": "embassy",
+    "address": "Baluwatar",
+    "city": "Kathmandu",
+    "phone": "+977-1-4411740",
+    "email": "chinaemb_np@mfa.gov.cn",
+    "website": "http://np.china-embassy.gov.cn",
+    "heroImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=1600&h=900&fit=crop",
+    "coordinates": {
+      "lat": 27.7298,
+      "lng": 85.3297
+    },
+    "ambassadorSlug": "chen-song",
+    "established": "1955",
+    "visaInfo": "Chinese visas are processed through the embassy. Processing time is typically 4-5 business days for standard applications.",
+    "cooperationProjects": [
+      {
+        "title": "Pokhara International Airport",
+        "description": "Modern international airport funded by Chinese EXIM Bank.",
+        "status": "completed",
+        "year": 2023
+      },
+      {
+        "title": "Trans-Himalayan Railway",
+        "description": "Feasibility study for Kathmandu-Lhasa railway connection.",
+        "status": "active",
+        "year": 2024
+      }
+    ],
+    "gallery": []
+  },
+  {
+    "id": "3",
+    "slug": "us-embassy-kathmandu",
+    "name": "Embassy of the United States",
+    "country": "United States",
+    "countrySlug": "united-states",
+    "type": "embassy",
+    "address": "Maharajgunj",
+    "city": "Kathmandu",
+    "phone": "+977-1-4234000",
+    "email": "usembassykathmandu@state.gov",
+    "website": "https://np.usembassy.gov",
+    "heroImage": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=1600&h=900&fit=crop",
+    "coordinates": {
+      "lat": 27.7389,
+      "lng": 85.337
+    },
+    "ambassadorSlug": "dean-thompson",
+    "established": "1959",
+    "visaInfo": "Non-immigrant visa applications are processed through the embassy. Interview appointments required for most categories.",
+    "cooperationProjects": [
+      {
+        "title": "MCC Compact Implementation",
+        "description": "Electricity transmission and road maintenance projects.",
+        "status": "active",
+        "year": 2024
+      },
+      {
+        "title": "USAID Health Programs",
+        "description": "Maternal and child health initiatives across provinces.",
+        "status": "active",
+        "year": 2025
+      }
+    ],
+    "gallery": []
+  }
+]

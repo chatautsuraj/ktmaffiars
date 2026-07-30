@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Geopolitics",
+    "slug": "geopolitics",
+    "description": "Geopolitics Coverage ",
+    "color": "",
+    "showOnHomepage": true,
+    "homepageOrder": 1,
+    "id": "036a7da6-b9f8-4f2f-bfab-0cca81cf4bf1"
+  },
+  {
+    "id": "1",
+    "slug": "diplomacy",
+    "name": "Diplomacy",
+    "description": "Statecraft, negotiations, and diplomatic relations",
+    "showOnHomepage": true,
+    "homepageOrder": 1
+  },
+  {
+    "id": "2",
+    "slug": "foreign-policy",
+    "name": "Foreign Policy",
+    "description": "Policy analysis and strategic decisions",
+    "showOnHomepage": true,
+    "homepageOrder": 2
+  },
+  {
+    "id": "3",
+    "slug": "economy",
+    "name": "Economy",
+    "description": "Global trade, finance, and economic diplomacy"
+  },
+  {
+    "id": "4",
+    "slug": "security",
+    "name": "Security",
+    "description": "Defense, intelligence, and geopolitical security"
+  },
+  {
+    "id": "5",
+    "slug": "climate",
+    "name": "Climate",
+    "description": "Climate diplomacy and environmental policy"
+  },
+  {
+    "id": "6",
+    "slug": "opinion",
+    "name": "Opinion",
+    "description": "Editorial perspectives and commentary",
+    "showOnHomepage": true,
+    "homepageOrder": 4
+  },
+  {
+    "id": "7",
+    "slug": "analysis",
+    "name": "Analysis",
+    "description": "In-depth analytical reporting",
+    "showOnHomepage": true,
+    "homepageOrder": 3
+  },
+  {
+    "id": "8",
+    "slug": "explainers",
+    "name": "Explainers",
+    "description": "Clear explanations of complex issues"
+  },
+  {
+    "id": "9",
+    "slug": "intelligence",
+    "name": "Intelligence",
+    "description": "Strategic intelligence and assessments"
+  },
+  {
+    "id": "10",
+    "slug": "nepal-world",
+    "name": "Nepal & The World",
+    "description": "Nepal's place in global affairs"
+  }
+]

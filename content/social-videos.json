@@ -1,0 +1,59 @@
+[
+  {
+    "id": "1",
+    "slug": "un-assembly-highlights-youtube",
+    "title": "UN General Assembly Highlights",
+    "description": "Key moments from Nepal's delegation at the 81st UN General Assembly session.",
+    "thumbnail": "https://img.youtube.com/vi/ScMzIvxBSi4/hqdefault.jpg",
+    "platform": "youtube",
+    "platformHandle": "@KTMAffairs",
+    "embedUrl": "https://www.youtube.com/embed/ScMzIvxBSi4",
+    "videoUrl": "https://www.youtube.com/watch?v=ScMzIvxBSi4",
+    "publishedAt": "2026-07-05T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "slug": "embassy-briefing-instagram",
+    "title": "Behind the Scenes: Embassy Briefing",
+    "description": "A quick look at our coverage of the Indian Embassy press briefing in Kathmandu.",
+    "thumbnail": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=450&fit=crop",
+    "platform": "instagram",
+    "platformHandle": "@ktm.affairs",
+    "videoUrl": "https://www.instagram.com/reel/example/",
+    "publishedAt": "2026-07-02T09:30:00Z"
+  },
+  {
+    "id": "3",
+    "slug": "himalayan-geopolitics-tiktok",
+    "title": "Himalayan Geopolitics in 60 Seconds",
+    "description": "A rapid explainer on why the Himalayas matter in great-power competition.",
+    "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&h=450&fit=crop",
+    "platform": "tiktok",
+    "platformHandle": "@ktmaffairs",
+    "videoUrl": "https://www.tiktok.com/@ktmaffairs/video/example",
+    "publishedAt": "2026-06-28T16:00:00Z"
+  },
+  {
+    "id": "4",
+    "slug": "saarc-summit-facebook",
+    "title": "SAARC at a Crossroads — Panel Clip",
+    "description": "Excerpt from our Facebook Live panel on the future of South Asian regional cooperation.",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=450&fit=crop",
+    "platform": "facebook",
+    "platformHandle": "KTMAffairs",
+    "videoUrl": "https://www.facebook.com/KTMAffairs/videos/example",
+    "publishedAt": "2026-06-22T11:00:00Z"
+  },
+  {
+    "id": "5",
+    "slug": "diplomatic-circuit-youtube",
+    "title": "The Diplomatic Circuit: Nepal's Balancing Act",
+    "description": "Full episode clip on how Nepal navigates relations between India, China, and the United States.",
+    "thumbnail": "https://img.youtube.com/vi/aqz-KE-bpKQ/hqdefault.jpg",
+    "platform": "youtube",
+    "platformHandle": "@KTMAffairs",
+    "embedUrl": "https://www.youtube.com/embed/aqz-KE-bpKQ",
+    "videoUrl": "https://www.youtube.com/watch?v=aqz-KE-bpKQ",
+    "publishedAt": "2026-06-18T14:00:00Z"
+  }
+]

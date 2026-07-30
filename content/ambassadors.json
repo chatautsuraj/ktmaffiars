@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "slug": "naveen-srivastava",
+    "name": "Naveen Srivastava",
+    "title": "Ambassador of India to Nepal",
+    "country": "India",
+    "countrySlug": "india",
+    "embassySlug": "indian-embassy-kathmandu",
+    "photo": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=400&h=500&fit=crop",
+    "bio": "Ambassador Srivastava is a career diplomat with over three decades of service. Prior to Kathmandu, he served as Joint Secretary for Nepal and Bhutan at the Ministry of External Affairs.",
+    "appointed": "2024-04-01",
+    "previousPosts": [
+      "High Commissioner to Bangladesh",
+      "Ambassador to Myanmar",
+      "Joint Secretary, MEA"
+    ],
+    "languages": [
+      "Hindi",
+      "English",
+      "Nepali"
+    ],
+    "speeches": [
+      {
+        "title": "Address on Nepal-India Economic Partnership",
+        "date": "2026-03-15",
+        "excerpt": "The economic partnership between our nations has never been stronger..."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "chen-song",
+    "name": "Chen Song",
+    "title": "Ambassador of China to Nepal",
+    "country": "China",
+    "countrySlug": "china",
+    "embassySlug": "chinese-embassy-kathmandu",
+    "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=500&fit=crop",
+    "bio": "Ambassador Chen has extensive experience in South Asian affairs, having previously served in Pakistan and Sri Lanka.",
+    "appointed": "2023-01-15",
+    "previousPosts": [
+      "Deputy Chief of Mission, Islamabad",
+      "Counselor, Colombo"
+    ],
+    "languages": [
+      "Mandarin",
+      "English",
+      "Nepali"
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "dean-thompson",
+    "name": "Dean Thompson",
+    "title": "Ambassador of the United States to Nepal",
+    "country": "United States",
+    "countrySlug": "united-states",
+    "embassySlug": "us-embassy-kathmandu",
+    "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=500&fit=crop",
+    "bio": "Ambassador Thompson is a career Foreign Service officer with expertise in development policy and democratic governance.",
+    "appointed": "2022-09-01",
+    "previousPosts": [
+      "Principal Deputy Assistant Secretary, South Asia",
+      "Deputy Chief of Mission, Tbilisi"
+    ],
+    "languages": [
+      "English",
+      "Russian",
+      "Georgian"
+    ]
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "id": "1",
+    "slug": "united-nations",
+    "name": "United Nations",
+    "acronym": "UN",
+    "type": "Multilateral",
+    "founded": "1945",
+    "headquarters": "New York, USA",
+    "members": 193,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/320px-Flag_of_the_United_Nations.svg.png",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop",
+    "overview": "The United Nations is the world's preeminent intergovernmental organization, dedicated to maintaining international peace and security, developing friendly relations among nations, and promoting social progress.",
+    "nepalRole": "Nepal has been an active UN member since 1955, contributing over 140,000 peacekeepers to UN missions and currently serving on the UN Human Rights Council.",
+    "keyInitiatives": [
+      "UNDP Nepal Country Programme",
+      "UN Peacekeeping Operations",
+      "SDG Implementation",
+      "Climate Action Framework"
+    ],
+    "website": "https://www.un.org"
+  },
+  {
+    "id": "2",
+    "slug": "world-bank",
+    "name": "World Bank Group",
+    "acronym": "WB",
+    "type": "Financial Institution",
+    "founded": "1944",
+    "headquarters": "Washington, D.C., USA",
+    "members": 189,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/World_Bank_Group_logo.svg/320px-World_Bank_Group_logo.svg.png",
+    "heroImage": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1600&h=900&fit=crop",
+    "overview": "The World Bank Group provides financial and technical assistance to developing countries for development programs aimed at reducing poverty and building shared prosperity.",
+    "nepalRole": "Nepal has received over $6 billion in World Bank financing since joining in 1963, with current focus on energy, transport, and disaster resilience.",
+    "keyInitiatives": [
+      "Nepal Energy Sector Reform",
+      "Road Connectivity Project",
+      "Disaster Risk Management",
+      "Education Quality Reform"
+    ],
+    "website": "https://www.worldbank.org"
+  },
+  {
+    "id": "3",
+    "slug": "saarc",
+    "name": "South Asian Association for Regional Cooperation",
+    "acronym": "SAARC",
+    "type": "Regional Organization",
+    "founded": "1985",
+    "headquarters": "Kathmandu, Nepal",
+    "members": 8,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/SAARC_logo.svg/320px-SAARC_logo.svg.png",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop",
+    "overview": "SAARC is a regional intergovernmental organization comprising eight South Asian nations, promoting economic and regional integration.",
+    "nepalRole": "As SAARC's permanent secretariat host since 1987, Nepal plays a central role in regional cooperation architecture, though the organization has been largely dormant since 2016.",
+    "keyInitiatives": [
+      "SAARC Development Fund",
+      "South Asian Free Trade Area",
+      "Regional Food Security",
+      "Climate Change Initiative"
+    ],
+    "website": "https://www.saarc-sec.org"
+  },
+  {
+    "id": "4",
+    "slug": "bimstec",
+    "name": "Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation",
+    "acronym": "BIMSTEC",
+    "type": "Regional Organization",
+    "founded": "1997",
+    "headquarters": "Dhaka, Bangladesh",
+    "members": 7,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BIMSTEC_logo.svg/320px-BIMSTEC_logo.svg.png",
+    "heroImage": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&h=900&fit=crop",
+    "overview": "BIMSTEC connects South and Southeast Asia through economic and technical cooperation across 14 priority sectors.",
+    "nepalRole": "Nepal joined BIMSTEC in 2004 and has been an active participant, particularly in energy, tourism, and counter-terrorism cooperation.",
+    "keyInitiatives": [
+      "Energy Grid Interconnection",
+      "Tourism Circuit Development",
+      "Counter-Terrorism Framework",
+      "Trade Facilitation"
+    ],
+    "website": "https://www.bimstec.org"
+  },
+  {
+    "id": "5",
+    "slug": "imf",
+    "name": "International Monetary Fund",
+    "acronym": "IMF",
+    "type": "Financial Institution",
+    "founded": "1944",
+    "headquarters": "Washington, D.C., USA",
+    "members": 190,
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/IMF_logo.svg/320px-IMF_logo.svg.png",
+    "heroImage": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&h=900&fit=crop",
+    "overview": "The IMF works to foster global monetary cooperation, secure financial stability, facilitate international trade, and reduce poverty worldwide.",
+    "nepalRole": "Nepal has been an IMF member since 1961. The Fund has supported Nepal through Extended Credit Facility arrangements and technical assistance on fiscal policy and financial sector reform.",
+    "keyInitiatives": [
+      "Extended Credit Facility Programme",
+      "Fiscal Transparency Assessment",
+      "Financial Sector Stability Review",
+      "Climate Policy Diagnostic"
+    ],
+    "website": "https://www.imf.org"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "enabled": false,
+  "publishMode": "review",
+  "maxItemsPerRun": 5,
+  "scheduleIntervalMinutes": 180,
+  "defaultCategorySlug": "nepal-world",
+  "feeds": [
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "category": "nepal-world",
+      "enabled": false
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "category": "nepal-world",
+      "enabled": false
+    },
+    {
+      "name": "The Guardian World",
+      "url": "https://www.theguardian.com/world/rss",
+      "category": "nepal-world",
+      "enabled": false
+    },
+    {
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml",
+      "category": "foreign-policy",
+      "enabled": false
+    },
+    {
+      "name": "UN News",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "category": "diplomacy",
+      "enabled": false
+    }
+  ]
+}

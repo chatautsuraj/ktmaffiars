@@ -1,0 +1,35 @@
+[
+  {
+    "id": "1",
+    "slug": "himalayan-diplomacy-summit-2026",
+    "title": "Himalayan Diplomacy Summit 2026",
+    "description": "Annual gathering of diplomats, policymakers, and scholars focused on Himalayan geopolitics and cooperation.",
+    "date": "2026-09-15",
+    "endDate": "2026-09-17",
+    "location": "Kathmandu, Nepal",
+    "type": "Summit",
+    "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop",
+    "registrationUrl": "#"
+  },
+  {
+    "id": "2",
+    "slug": "south-asia-economic-forum",
+    "title": "South Asia Economic Forum",
+    "description": "Regional economic dialogue featuring finance ministers and central bank governors.",
+    "date": "2026-10-22",
+    "location": "New Delhi, India",
+    "type": "Forum",
+    "image": "https://images.unsplash.com/photo-1556761175-b413da4baf72?w=800&h=600&fit=crop"
+  },
+  {
+    "id": "3",
+    "slug": "climate-diplomacy-workshop",
+    "title": "Climate Diplomacy Workshop for Mountain Nations",
+    "description": "Technical workshop on climate negotiation strategies for Himalayan and Andean nations.",
+    "date": "2026-08-05",
+    "location": "Virtual",
+    "type": "Workshop",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=600&fit=crop",
+    "isVirtual": true
+  }
+]
